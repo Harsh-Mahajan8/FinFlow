@@ -9,10 +9,10 @@ import userRoutes from './routes/user.js';
 dotenv.config();
 
 const app = express();
-const PORT = process.env.PORT|| 5000;
+const PORT = process.env.PORT;
 
 // Middleware
-app.use(cors({ origin: 'https://fin-flow-steel.vercel.app/' }));
+app.use(cors());
 app.use(express.json());
 
 // Routes
