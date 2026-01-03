@@ -13,7 +13,7 @@ const PORT = process.env.PORT;
 
 // Middleware
 app.use(cors({
-    origin: "https://fin-flow-3400xkjmj-harshs-projects-d94bf965.vercel.app"
+    origin: "https://fin-flow-a9nw-jqu7r14ga-harshs-projects-d94bf965.vercel.app"
 }));
 app.use(express.json());
 
