@@ -26,7 +26,7 @@ A full-stack finance/money tracker application built with React and Node.js/Expr
 - ✅ Protected API routes
   
 ## Deployed using Vercel
-link- <a> https://fin-flow-steel.vercel.app/</a>
+link- <a>https://fin-flow-a9nw-jqu7r14ga-harshs-projects-d94bf965.vercel.app/</a>
 ## Tech Stack
 
 ### Frontend
